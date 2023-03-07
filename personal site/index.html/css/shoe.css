@@ -1,0 +1,55 @@
+/**********TAG SELECTORS**********/
+body{
+   background-color: rgb(198, 240, 144);
+   text-align: center;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }  
+h1{
+  color:rgb(6, 118, 133)
+ } 
+h3{
+color: rgb(221, 34, 34);
+ } 
+hr{
+   border-color:grey ;
+   border-style: dotted;
+   border-top: none;
+   border-width: 5px;
+   width: 5%;
+ 
+  }
+  img:hover{
+    background-color:brown ; 
+  }
+  img{
+    padding-top: 20px;
+    
+  }
+/**********TAG SELECTORS**********/
+/**********CLASS SLECTORS**********/
+.top-container{
+  display: inline-block;
+  padding: 10px;
+  position: relative;
+}
+.first-shoe{
+  position:absolute;
+  left: 300px;
+}
+.second-shoe{
+  position:absolute;
+right: 200px;
+}
+ .third-shoe{
+  position: absolute;
+  right: 330px;
+ }
+ 
+ 
+ 
+ /**********ID SELLECTORS**********/
+ #heading{
+
+}
+
+ /**********ID SELECTORS**********/

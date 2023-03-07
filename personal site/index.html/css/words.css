@@ -1,0 +1,58 @@
+/**********ID SELECTORS**********/
+:root{
+  --first-color:#16f;
+  --second-color: #ff7;
+  --third-color: red;
+  --forth-color: green;
+  --fifth-color: black;
+  --six-color: pink;
+  --sevth-color: black;
+  --eight-color: khaki;
+  --ninght-color: rgb(27, 26, 21);
+  
+ }
+#firstparagraph{
+     background-color: var(--first-color);
+     color: var(--second-color);
+ }
+
+#heading{
+    color:red;
+    background-color: #290;
+ }  
+  
+#secondparagraph{
+     background-color:var(--second-color) ;
+     color: var(--first-color);
+ }  
+#thirdparagraph{
+    background-color: var(--forth-color);
+    color: var(--third-color);
+ }
+#forthparagraph{ 
+    background-color:var(--third-color);
+    color: var(--forth-color)
+
+}
+#fifthparagraph{
+   background-color:var(--fifth-color);
+   color:var(--forth-color);  
+}
+#sixthparagraph{
+    background-color:var(--fifth-color) ;
+    color:var(--six-color) ;
+}#sevethparagraph{
+  background-color:var(--six-color) ;
+  color: var(--sevth-color);
+ }
+ #eightparagraph{
+    background-color:var(--sevth-color) ;
+    color: var(--eight-color);
+
+ }
+ #ninghtparagraph{
+    background-color: var(--eight-color); 
+    color:  var(--ninght-color);
+ }
+
+/**********ID SELECTOPS**********/

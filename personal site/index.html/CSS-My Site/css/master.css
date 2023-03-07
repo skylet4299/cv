@@ -1,0 +1,23 @@
+.navbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem ;
+}
+.navbar-nav{
+display: flex;  
+flex-direction: column;
+padding-left: 0;
+margin-bottom: 0;
+list-style: none;
+}
+.navbar-nav .nav-link{
+    padding-right: 0;
+    padding-left: 0;
+}
+.navbar-nav .dropdown-menu{
+    position: static;
+}

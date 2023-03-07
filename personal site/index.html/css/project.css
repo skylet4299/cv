@@ -1,0 +1,18 @@
+body{
+    background-color: khaki;
+    font-family: sans-serif;
+}
+hr{
+   border-color: grey;
+   border-style: dotted;
+   border-top: none;
+   border-width: 5px;
+   width: 5%;
+}
+h1{
+    font-family: serif;
+    color: rgba(0, 128, 0, 0.767);
+ }
+h3{
+    color: rgb(223, 77, 77);
+} 

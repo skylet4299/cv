@@ -1,0 +1,41 @@
+
+/**********TAG SELECTORS**********/
+body{
+    background-color: rgb(245, 163, 220)
+ }
+hr{
+   border-color:rgb(231, 149, 110);
+   border-style:dotted;
+   border-top: none;
+   border-width: 5px;
+   width: 5%;
+ } 
+h1{
+   color: rgb(247, 12, 43);
+   font-size: 50px;
+ }
+
+img{
+    background-color: rgb(245, 51, 51);
+ }
+ img:hover{
+     background-color: gold;
+  }
+
+ /**********CLASS SELECTORS**********/
+ .watermelon{
+   background-color:green;
+ }
+
+.mango{
+   background-color: red
+ }
+.circular{
+    border-radius: 100%;
+ } 
+
+
+/**********ID SECLECTORS**********/
+#heading{
+   color:rgb(10, 95, 95);
+}
